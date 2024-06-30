@@ -1,5 +1,4 @@
 import { createSlice } from "@reduxjs/toolkit"
-import Lenis from "@studio-freight/lenis"
 
 interface IModel {
   isOpen: boolean

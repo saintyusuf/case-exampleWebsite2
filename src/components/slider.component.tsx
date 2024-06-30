@@ -1,6 +1,6 @@
 import { Box, Img, Text } from '@chakra-ui/react'
 import axios from 'axios'
-import React, { useEffect, useState } from 'react'
+import { useEffect, useState } from 'react'
 import {Swiper, SwiperSlide} from 'swiper/react'
 import { Navigation } from "swiper/modules"
 import "swiper/css"

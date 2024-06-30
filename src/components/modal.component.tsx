@@ -1,6 +1,6 @@
-import { Box, Button, Img, Input, Text } from '@chakra-ui/react'
+import { Box, Img, Input, Text } from '@chakra-ui/react'
 import axios from 'axios'
-import React, { useState } from 'react'
+import { useState } from 'react'
 import { useDispatch } from 'react-redux'
 import ButtonComponent from './button.component'
 

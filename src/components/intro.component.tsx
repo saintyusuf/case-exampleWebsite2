@@ -1,7 +1,4 @@
 import { Box, Img, Text } from '@chakra-ui/react'
-import gsap from 'gsap'
-import { ScrollTrigger } from 'gsap/all'
-import React, { useEffect, useRef } from 'react'
 
 const IntroComponent = () => {
   
